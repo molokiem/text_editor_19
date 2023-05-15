@@ -25,6 +25,10 @@ To install dependencies, run 'npm i' in the terminal.
 
 - To test this text editor, run 'npm run start:dev' in your develop terminal to start running on port 3000.
 
+## Website
+
+- [Deployed Heroku Application](https://texteditor-19.herokuapp.com/)
+
 ## License
 
 - MIT Lisense
