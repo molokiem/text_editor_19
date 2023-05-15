@@ -9,24 +9,21 @@ This is a simple text editor that runs in the browers and can be run offline. It
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
+- [Website](#website)
 - [MIT](https://opensource.org/licenses/MIT)
 - [About](#about)
 
 ## Installation
 
-To install dependencies, run 'npm i' in the logo-maker terminal.
+To install dependencies, run 'npm i' in the terminal.
 
 ## Usage
 
-- The user can follow the prompts, choosing the shape and entering a text, background color, and text color.
-- The SVG file will appear once completed, presenting 'Logo generated successfully' in the terminal.
-- The user can then open the file in thier browser.
+- The user can write notes or code and store to look back on.
 
 ## Testing
 
-- To test this Logo Generateor, run 'node index.js' in your logo-maker terminal to start the prompt.
-
-- Watch the walkthrough video [Here](https://drive.google.com/file/d/16ng98b3B9LfQB6lQgBG32r-AEOzKTGH9/view).
+- To test this text editor, run 'npm run start:dev' in your develop terminal to start running on port 3000.
 
 ## License
 
